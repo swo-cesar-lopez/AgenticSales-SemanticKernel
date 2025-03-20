@@ -174,4 +174,9 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+<<<<<<< HEAD
+=======
+
+*settings.json
+>>>>>>> 4ed5c5a016d80c06ab4176fcccbfb931f1420fa1
 .env
